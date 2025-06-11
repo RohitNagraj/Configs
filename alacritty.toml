@@ -1,0 +1,27 @@
+[font]
+size = 14
+
+[colors]
+[colors.primary]
+background = "#11111a"
+
+[colors.normal]
+
+cyan = "#00ffe4"
+yellow = "#ffff00"
+magenta = "#ff008f"
+blue = "#00ff78"
+white = "#FFFFFF"
+green = "#ffff00"
+
+[window]
+
+opacity = 0.9
+blur = true
+
+[terminal]
+shell = "/opt/homebrew/bin/zellij"
+
+
+
+
