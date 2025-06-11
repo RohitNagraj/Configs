@@ -1,5 +1,6 @@
 [font]
 size = 14
+normal = { family = "Firacode Nerd Font", style = "Regular" }
 
 [colors]
 [colors.primary]
@@ -21,7 +22,3 @@ blur = true
 
 [terminal]
 shell = "/opt/homebrew/bin/zellij"
-
-
-
-
